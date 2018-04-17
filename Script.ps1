@@ -10,5 +10,5 @@ if ($var1 -eq $var2 -and $var2 -eq $var3) {
     Write-Host "Cha marche"
 } else {
     Write-Host "Cha marche pas" 
-}
+ }
 
